@@ -1,1 +1,1 @@
-The following is a project from IBM course under this link: https://www.coursera.org/learn/python-project-for-data-science
+Final project from IBM Data Science Certificate: Extracting historical stock prices (yfinance) and quarterly revenue (web scraping from MacroTrends) for Tesla (TSLA) and GameStop (GME). Interactive dashboards using Plotly.
